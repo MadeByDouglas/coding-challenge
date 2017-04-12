@@ -39,11 +39,12 @@ You can add these features if you want, they are not required.
 
 - Implement persistant storage on the server using a provider of your choice (mongoDB, couchDB, realm etc.)
 - Implement a solution using graphQL; if you do this be sure to mention your approach in the readme
-- build a mobile app instead of a web app to display the results. The mobile app does not need to be able to submit data to the server, just read data.
+- Implement a web server using golang; tell us what makes it better or worse than node.js
+- Build a mobile app instead of a web app to display the results. The mobile app does not need to be able to submit data to the server, just read data. Native iOS or Android implementation is encouraged rather than a web wrapper such as Ionic in this case.
 
 ## Submission
 
 Send us a link to your git repo, it should have the following:
 
-- a readme with an overview of your solution
-- a link to the client application that is live and functional
+- A readme with an overview of your solution
+- A link to the client application that is live and functional
