@@ -26,7 +26,7 @@ You are provided with sample code that shows you a simple way of how to cluster 
 
 ### Client
 
-- Create a simple html/CSS/javascript implementation
+- Single page app with a simple html/CSS/javascript implementation
 - Use any 3rd party libraries you want to, list these in your readme file
 
 Design and build a simple web app that can submit raw data to the server as well as display appropriate data from the server. You are free to design this however you like, it does not have to be super fancy but we are looking to see your visual design skills in addition to coding skills. Feel free to use any libraries you see fit, but something simple clean and readable is also totally fine.
