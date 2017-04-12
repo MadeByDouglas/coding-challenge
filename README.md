@@ -1,4 +1,4 @@
-# coding-challenge
+# Coding Challenge
 Overview for BMW tech office developer candidates
 
 ## Existing Code
@@ -24,3 +24,4 @@ Think of the readme as your extended resume. It should be professional for each 
 Your application will be reviewed by at least 2 members of our team and often by the entire team. We value your past work experience as well as relatable coding projects. If you can show us your coding skills through a hobby project rather than traditional work experience, that is fine, we just need to see how it connects. We are primarily looking for skill set and culture fit, so share what seems relevant. We are constantly learning new SDKs and implementing brand new technologies which previously did not exist, so while expertise is certanly needed we also require an eagerness to learn new stacks and frameworks.
 
 ## Active Coding Challenges
+[Javascript Challenge](https://github.com/MadeByDouglas/coding-challenge/blob/master/JavaScript%20Challenge.md)
